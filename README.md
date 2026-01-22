@@ -22,7 +22,7 @@ A single subnet was created inside the VPC. At this stage, the subnet had no int
 
 The VPC had no Internet Gateway attached. Without an Internet Gateway, there is no path for traffic to enter or leave the VPC.
 
-![No Internet Gateway attached](Amazon VPC Project 2.png) 
+![No Internet Gateway attached]([Amazon VPC Project 2.png](https://github.com/rilewacyber/broken-vpc-troubleshooting/blob/1657869577df2376d71769dde2838b9c243eccee/Amazon%20VPC%20Project%202.png)) 
 
 ---
 
