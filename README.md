@@ -10,7 +10,7 @@ This project documents the process of troubleshooting and fixing a broken Amazon
 
 The VPC was created with CIDR block `10.0.0.0/16`, but it was completely isolated from the internet.
 
-![Initial VPC setup](Amazon VPC Project.png)
+![Initial VPC setup](./vpc0.png)
 
 A single subnet was created inside the VPC. At this stage, the subnet had no internet access and was not configured as a public subnet.
 
