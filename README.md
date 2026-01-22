@@ -14,8 +14,7 @@ The VPC was created with CIDR block `10.0.0.0/16`, but it was completely isolate
 
 A single subnet was created inside the VPC. At this stage, the subnet had no internet access and was not configured as a public subnet.
 
-![Created single subnet]([Amazon VPC Project 1.png](https://github.com/rilewacyber/broken-vpc-troubleshooting/blob/4add19b19a7a2edfb5f4496533497a92585dcf65/Amazon%20VPC%20Project%201.png))
-
+![Created single subnet]([Amazon VPC Project 1.png](images/Amazon%20VPC%20Project%201.png)
 ---
 
 ## Missing Internet Gateway
