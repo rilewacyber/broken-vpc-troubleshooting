@@ -14,7 +14,7 @@ The VPC was created with CIDR block `10.0.0.0/16`, but it was completely isolate
 
 A single subnet was created inside the VPC. At this stage, the subnet had no internet access and was not configured as a public subnet.
 
-![Created single subnet](./Amazon VPC Project 1.png)
+![Created single subnet](./AmazonVPCProject1.png)
 
 ---
 
